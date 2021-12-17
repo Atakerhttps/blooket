@@ -1,3 +1,3 @@
 # blooket
-Token and hp hack
-dont mees with the code you can get only 500 tokens and 300hp a day you cant bypass that.
+to use the hack go in the tokens and HP.js file copy it make a bookamrk and in the url field type javascript: and paste.
+then go to blloket and click the book mark.
