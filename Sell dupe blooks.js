@@ -35,7 +35,7 @@ async function sellDupeBlooks() {
             body: JSON.stringify({
                 blook: blook,
                 name: blooketName,
-                numSold: val
+                numSold: 1000
             }),
         });
     }
